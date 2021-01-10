@@ -2,6 +2,7 @@
   "name": "react-redux-dashboard",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://checnev.github.io/react-redux-dashboard/",
   "dependencies": {
     "@material-ui/core": "^4.11.2",
     "@material-ui/icons": "^4.11.2",
