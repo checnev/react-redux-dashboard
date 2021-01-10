@@ -1,0 +1,31 @@
+language: node_js
+node_js:
+  - node
+cache:
+  directories:
+    - "node_modules"
+env:
+  global:
+    - CC_TEST_REPORTER_ID=00bfd8d0104295cfcff25b1ca66d89a9393404cd8da811b7f5a38f3ec34a1122
+before_script:
+  - curl -L https://codeclimate.com/downloads/test-reporter/test-reporter-latest-linux-amd64 > ./cc-test-reporter
+  - chmod +x ./cc-test-reporter
+  - ./cc-test-reporter before-build
+script:
+  - npm run build
+  - npm run test:cov
+after_script:
+  - ./cc-test-reporter after-build --exit-code $TRAVIS_TEST_RESULT 
+notifications:
+  email: false
+
+deploy:
+  provider: pages
+  github_token: $GITHUB_TOKEN
+  edge: true
+  committer_from_gh: true
+  cleanup: false
+  keep_history: true
+  local_dir: build
+  on:
+    branch: main
