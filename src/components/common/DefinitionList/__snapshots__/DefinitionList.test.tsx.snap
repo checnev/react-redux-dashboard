@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DefinitionList render 1`] = `
+"<dl class=\\"MuiGrid-root makeStyles-root-1 MuiGrid-container MuiGrid-spacing-xs-2\\">
+  <div class=\\"MuiGrid-root makeStyles-ceil-2 MuiGrid-item MuiGrid-grid-xs-6\\">
+    <dt class=\\"MuiTypography-root MuiTypography-body1\\">Name 1:</dt>
+  </div>
+  <div class=\\"MuiGrid-root makeStyles-ceil-2 MuiGrid-item MuiGrid-grid-xs-6\\">
+    <dd class=\\"MuiTypography-root MuiTypography-body1\\">Value 1</dd>
+  </div>
+  <div class=\\"MuiGrid-root makeStyles-ceil-2 MuiGrid-item MuiGrid-grid-xs-6\\">
+    <dt class=\\"MuiTypography-root MuiTypography-body1\\">Name 2:</dt>
+  </div>
+  <div class=\\"MuiGrid-root makeStyles-ceil-2 MuiGrid-item MuiGrid-grid-xs-6\\">
+    <dd class=\\"MuiTypography-root MuiTypography-body1\\">Value 2</dd>
+  </div>
+</dl>"
+`;

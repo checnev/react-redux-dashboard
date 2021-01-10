@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SummaryContainer render 1`] = `
+"<div class=\\"makeStyles-root-1\\">
+  <h2 class=\\"MuiTypography-root makeStyles-title-2 MuiTypography-h6 MuiTypography-colorPrimary\\">Сводка</h2>
+  <div class=\\"makeStyles-definitionList-3\\">
+    <dl class=\\"MuiGrid-root makeStyles-root-5 MuiGrid-container MuiGrid-spacing-xs-2\\">
+      <div class=\\"MuiGrid-root makeStyles-ceil-6 MuiGrid-item MuiGrid-grid-xs-6\\">
+        <dt class=\\"MuiTypography-root MuiTypography-body1\\">Доход:</dt>
+      </div>
+      <div class=\\"MuiGrid-root makeStyles-ceil-6 MuiGrid-item MuiGrid-grid-xs-6\\">
+        <dd class=\\"MuiTypography-root MuiTypography-body1\\">440038</dd>
+      </div>
+      <div class=\\"MuiGrid-root makeStyles-ceil-6 MuiGrid-item MuiGrid-grid-xs-6\\">
+        <dt class=\\"MuiTypography-root MuiTypography-body1\\">Кол-во Аренд:</dt>
+      </div>
+      <div class=\\"MuiGrid-root makeStyles-ceil-6 MuiGrid-item MuiGrid-grid-xs-6\\">
+        <dd class=\\"MuiTypography-root MuiTypography-body1\\">203</dd>
+      </div>
+      <div class=\\"MuiGrid-root makeStyles-ceil-6 MuiGrid-item MuiGrid-grid-xs-6\\">
+        <dt class=\\"MuiTypography-root MuiTypography-body1\\">Происшествий:</dt>
+      </div>
+      <div class=\\"MuiGrid-root makeStyles-ceil-6 MuiGrid-item MuiGrid-grid-xs-6\\">
+        <dd class=\\"MuiTypography-root MuiTypography-body1\\">3</dd>
+      </div>
+    </dl>
+  </div>
+  <div class=\\"makeStyles-bottomLink-4\\"><a class=\\"MuiTypography-root MuiLink-root MuiLink-underlineHover MuiTypography-colorPrimary\\" href=\\"/reviews\\">Отзывы</a></div>
+</div>"
+`;

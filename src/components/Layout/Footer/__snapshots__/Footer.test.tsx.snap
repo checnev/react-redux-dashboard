@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer should render 1`] = `
+"<footer class=\\"makeStyles-root-1\\">
+  <hr class=\\"MuiDivider-root\\">
+  <div class=\\"MuiContainer-root makeStyles-container-2 MuiContainer-maxWidthLg\\">
+    <p class=\\"MuiTypography-root MuiTypography-body1 MuiTypography-alignRight\\">CarShare © 2021</p>
+  </div>
+</footer>"
+`;

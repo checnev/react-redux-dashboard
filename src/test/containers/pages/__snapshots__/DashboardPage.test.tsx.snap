@@ -1,0 +1,97 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DashboardPageContainer DashboardPageContainer render 1`] = `
+"<div class=\\"MuiGrid-root makeStyles-root-1 MuiGrid-container MuiGrid-spacing-xs-3\\">
+  <div class=\\"MuiGrid-root makeStyles-header-2 MuiGrid-item MuiGrid-grid-xs-12\\">
+    <h1 class=\\"MuiTypography-root makeStyles-h1-3 MuiTypography-h4\\">Панель управления</h1>
+    <div class=\\"makeStyles-dateRange-4\\">
+      <div class=\\"makeStyles-root-8\\">
+        <div class=\\"MuiFormControl-root MuiTextField-root makeStyles-input-9\\"><label class=\\"MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled\\" data-shrink=\\"true\\">From</label>
+          <div class=\\"MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl\\"><input aria-invalid=\\"false\\" name=\\"from\\" type=\\"date\\" class=\\"MuiInputBase-input MuiInput-input\\" value=\\"2020-12-10\\"></div>
+        </div>
+        <div class=\\"MuiFormControl-root MuiTextField-root makeStyles-input-9\\"><label class=\\"MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled\\" data-shrink=\\"true\\">To</label>
+          <div class=\\"MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl\\"><input aria-invalid=\\"false\\" name=\\"to\\" type=\\"date\\" class=\\"MuiInputBase-input MuiInput-input\\" value=\\"2020-12-17\\"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class=\\"MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12\\">
+    <hr class=\\"MuiDivider-root\\">
+  </div>
+  <div class=\\"MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-8 MuiGrid-grid-lg-9\\">
+    <div class=\\"MuiPaper-root makeStyles-paper-5 MuiPaper-elevation1 MuiPaper-rounded\\">
+      <div class=\\"makeStyles-root-10\\">
+        <div class=\\"makeStyles-title-11\\">
+          <h2 class=\\"MuiTypography-root MuiTypography-h6 MuiTypography-colorPrimary\\">Доход</h2>
+          <p class=\\"MuiTypography-root makeStyles-titleDate-12 MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-alignRight\\"><span>10.12.2020 - 16.12.2020</span></p>
+        </div>
+        <div data-testid=\\"ResponsiveContainer\\"></div>
+      </div>
+    </div>
+  </div>
+  <div class=\\"MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-4 MuiGrid-grid-lg-3\\">
+    <div class=\\"MuiPaper-root makeStyles-paper-5 makeStyles-summary-7 MuiPaper-elevation1 MuiPaper-rounded\\">
+      <div class=\\"makeStyles-root-13\\">
+        <h2 class=\\"MuiTypography-root makeStyles-title-14 MuiTypography-h6 MuiTypography-colorPrimary\\">Сводка</h2>
+        <div class=\\"makeStyles-definitionList-15\\">
+          <dl class=\\"MuiGrid-root makeStyles-root-17 MuiGrid-container MuiGrid-spacing-xs-2\\">
+            <div class=\\"MuiGrid-root makeStyles-ceil-18 MuiGrid-item MuiGrid-grid-xs-6\\">
+              <dt class=\\"MuiTypography-root MuiTypography-body1\\">Доход:</dt>
+            </div>
+            <div class=\\"MuiGrid-root makeStyles-ceil-18 MuiGrid-item MuiGrid-grid-xs-6\\">
+              <dd class=\\"MuiTypography-root MuiTypography-body1\\">440038</dd>
+            </div>
+            <div class=\\"MuiGrid-root makeStyles-ceil-18 MuiGrid-item MuiGrid-grid-xs-6\\">
+              <dt class=\\"MuiTypography-root MuiTypography-body1\\">Кол-во Аренд:</dt>
+            </div>
+            <div class=\\"MuiGrid-root makeStyles-ceil-18 MuiGrid-item MuiGrid-grid-xs-6\\">
+              <dd class=\\"MuiTypography-root MuiTypography-body1\\">203</dd>
+            </div>
+            <div class=\\"MuiGrid-root makeStyles-ceil-18 MuiGrid-item MuiGrid-grid-xs-6\\">
+              <dt class=\\"MuiTypography-root MuiTypography-body1\\">Происшествий:</dt>
+            </div>
+            <div class=\\"MuiGrid-root makeStyles-ceil-18 MuiGrid-item MuiGrid-grid-xs-6\\">
+              <dd class=\\"MuiTypography-root MuiTypography-body1\\">3</dd>
+            </div>
+          </dl>
+        </div>
+        <div class=\\"makeStyles-bottomLink-16\\"><a class=\\"MuiTypography-root MuiLink-root MuiLink-underlineHover MuiTypography-colorPrimary\\" href=\\"/reviews\\">Отзывы</a></div>
+      </div>
+    </div>
+  </div>
+  <div class=\\"MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12\\">
+    <div class=\\"MuiPaper-root MuiTableContainer-root MuiPaper-elevation1 MuiPaper-rounded\\">
+      <table class=\\"MuiTable-root makeStyles-root-19\\" aria-label=\\"car list table\\">
+        <thead class=\\"MuiTableHead-root\\">
+          <tr class=\\"MuiTableRow-root MuiTableRow-head\\">
+            <th class=\\"MuiTableCell-root MuiTableCell-head\\" scope=\\"col\\">Гос. Номер</th>
+            <th class=\\"MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter\\" scope=\\"col\\">Марка, Модель</th>
+            <th class=\\"MuiTableCell-root MuiTableCell-head sortColumn MuiTableCell-alignCenter\\" scope=\\"col\\"><span class=\\"MuiButtonBase-root MuiTableSortLabel-root\\" tabindex=\\"0\\" role=\\"button\\" aria-disabled=\\"false\\">Кол-во Аренд<svg class=\\"MuiSvgIcon-root MuiTableSortLabel-icon MuiTableSortLabel-iconDirectionAsc\\" focusable=\\"false\\" viewBox=\\"0 0 24 24\\" aria-hidden=\\"true\\"><path d=\\"M20 12l-1.41-1.41L13 16.17V4h-2v12.17l-5.58-5.59L4 12l8 8 8-8z\\"></path></svg></span></th>
+            <th class=\\"MuiTableCell-root MuiTableCell-head sortColumn MuiTableCell-alignCenter\\" scope=\\"col\\"><span class=\\"MuiButtonBase-root MuiTableSortLabel-root\\" tabindex=\\"0\\" role=\\"button\\" aria-disabled=\\"false\\">Доход<svg class=\\"MuiSvgIcon-root MuiTableSortLabel-icon MuiTableSortLabel-iconDirectionAsc\\" focusable=\\"false\\" viewBox=\\"0 0 24 24\\" aria-hidden=\\"true\\"><path d=\\"M20 12l-1.41-1.41L13 16.17V4h-2v12.17l-5.58-5.59L4 12l8 8 8-8z\\"></path></svg></span></th>
+            <th class=\\"MuiTableCell-root MuiTableCell-head sortColumn MuiTableCell-alignCenter\\" scope=\\"col\\"><span class=\\"MuiButtonBase-root MuiTableSortLabel-root\\" tabindex=\\"0\\" role=\\"button\\" aria-disabled=\\"false\\">Происшествий<svg class=\\"MuiSvgIcon-root MuiTableSortLabel-icon MuiTableSortLabel-iconDirectionAsc\\" focusable=\\"false\\" viewBox=\\"0 0 24 24\\" aria-hidden=\\"true\\"><path d=\\"M20 12l-1.41-1.41L13 16.17V4h-2v12.17l-5.58-5.59L4 12l8 8 8-8z\\"></path></svg></span></th>
+            <th class=\\"MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter\\" scope=\\"col\\">Статус</th>
+          </tr>
+        </thead>
+        <tbody class=\\"MuiTableBody-root\\">
+          <tr class=\\"MuiTableRow-root\\">
+            <th class=\\"MuiTableCell-root MuiTableCell-body\\" role=\\"cell\\" scope=\\"row\\">A 100 AA</th>
+            <td class=\\"MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter\\"><a class=\\"MuiTypography-root MuiLink-root MuiLink-underlineHover MuiTypography-colorPrimary\\" href=\\"/cars/1\\">Hyundai solaris 2014</a></td>
+            <td class=\\"MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter\\">98</td>
+            <td class=\\"MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter\\">229889</td>
+            <td class=\\"MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter\\">0</td>
+            <td class=\\"MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter\\">Свободен</td>
+          </tr>
+          <tr class=\\"MuiTableRow-root\\">
+            <th class=\\"MuiTableCell-root MuiTableCell-body\\" role=\\"cell\\" scope=\\"row\\">А 101 АА</th>
+            <td class=\\"MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter\\"><a class=\\"MuiTypography-root MuiLink-root MuiLink-underlineHover MuiTypography-colorPrimary\\" href=\\"/cars/2\\">Kia Rio 2014</a></td>
+            <td class=\\"MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter\\">105</td>
+            <td class=\\"MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter\\">210149</td>
+            <td class=\\"MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter\\">3</td>
+            <td class=\\"MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter\\">Занят</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>"
+`;

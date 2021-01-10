@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MapsPageContainer MapsPageContainer render 1`] = `
+"<div class=\\"MuiGrid-root makeStyles-root-1 MuiGrid-container MuiGrid-spacing-xs-3\\">
+  <div class=\\"MuiGrid-root makeStyles-header-2 MuiGrid-item MuiGrid-grid-xs-12\\">
+    <h1 class=\\"MuiTypography-root MuiTypography-h4\\">Автомобили на карте</h1>
+  </div>
+  <div class=\\"MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12\\">
+    <hr class=\\"MuiDivider-root\\">
+  </div>
+  <div class=\\"MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12\\">
+    <div data-testid=\\"YMaps\\">
+      <div data-testid=\\"Map\\" width=\\"100%\\" height=\\"350\\">
+        <div data-testid=\\"Placemark\\" geometry=\\"1,1\\" properties=\\"[object Object]\\" modules=\\"geoObject.addon.balloon\\" options=\\"[object Object]\\"></div>
+        <div data-testid=\\"Placemark\\" geometry=\\"1,1\\" properties=\\"[object Object]\\" modules=\\"geoObject.addon.balloon\\" options=\\"[object Object]\\"></div>
+      </div>
+    </div>
+  </div>
+</div>"
+`;

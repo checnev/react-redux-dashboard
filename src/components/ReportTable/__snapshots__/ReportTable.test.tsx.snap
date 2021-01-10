@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ReportTable render 1`] = `
+"<div class=\\"MuiPaper-root makeStyles-root-1 MuiPaper-elevation1 MuiPaper-rounded\\">
+  <div class=\\"MuiTableContainer-root\\">
+    <table class=\\"MuiTable-root makeStyles-root-1\\" aria-label=\\"car list table\\">
+      <thead class=\\"MuiTableHead-root\\">
+        <tr class=\\"MuiTableRow-root MuiTableRow-head\\">
+          <th class=\\"MuiTableCell-root MuiTableCell-head\\" scope=\\"col\\">Дата</th>
+          <th class=\\"MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter\\" scope=\\"col\\">Доход</th>
+          <th class=\\"MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter\\" scope=\\"col\\">Кол-во Аренд</th>
+          <th class=\\"MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter\\" scope=\\"col\\">Происшествий</th>
+        </tr>
+      </thead>
+      <tbody class=\\"MuiTableBody-root\\">
+        <tr class=\\"MuiTableRow-root\\">
+          <th class=\\"MuiTableCell-root MuiTableCell-body\\" role=\\"cell\\" scope=\\"row\\">11.12.2020</th>
+          <td class=\\"MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter\\">1000</td>
+          <td class=\\"MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter\\">5</td>
+          <td class=\\"MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter\\">1</td>
+        </tr>
+        <tr class=\\"MuiTableRow-root\\">
+          <th class=\\"MuiTableCell-root MuiTableCell-body\\" role=\\"cell\\" scope=\\"row\\">12.12.2020</th>
+          <td class=\\"MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter\\">2000</td>
+          <td class=\\"MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter\\">6</td>
+          <td class=\\"MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter\\">0</td>
+        </tr>
+        <tr class=\\"MuiTableRow-root\\">
+          <th class=\\"MuiTableCell-root MuiTableCell-body\\" role=\\"cell\\" scope=\\"row\\">13.12.2020</th>
+          <td class=\\"MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter\\">1000</td>
+          <td class=\\"MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter\\">5</td>
+          <td class=\\"MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter\\">0</td>
+        </tr>
+        <tr class=\\"MuiTableRow-root\\">
+          <th class=\\"MuiTableCell-root MuiTableCell-body\\" role=\\"cell\\" scope=\\"row\\">14.12.2020</th>
+          <td class=\\"MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter\\">2000</td>
+          <td class=\\"MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter\\">5</td>
+          <td class=\\"MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter\\">0</td>
+        </tr>
+        <tr class=\\"MuiTableRow-root\\">
+          <th class=\\"MuiTableCell-root MuiTableCell-body\\" role=\\"cell\\" scope=\\"row\\">15.12.2020</th>
+          <td class=\\"MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter\\">1000</td>
+          <td class=\\"MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter\\">2</td>
+          <td class=\\"MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter\\">0</td>
+        </tr>
+        <tr class=\\"MuiTableRow-root\\">
+          <th class=\\"MuiTableCell-root MuiTableCell-body\\" role=\\"cell\\" scope=\\"row\\">16.12.2020</th>
+          <td class=\\"MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter\\">5000</td>
+          <td class=\\"MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter\\">6</td>
+          <td class=\\"MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter\\">0</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div data-testid=\\"pagination\\"></div>
+</div>"
+`;

@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ReviewsPageContainer render 1`] = `
+"<div class=\\"MuiGrid-root makeStyles-root-1 MuiGrid-container MuiGrid-spacing-xs-3\\">
+  <div class=\\"MuiGrid-root makeStyles-header-2 MuiGrid-item MuiGrid-grid-xs-12\\">
+    <h1 class=\\"MuiTypography-root MuiTypography-h4\\">Отзывы</h1>
+  </div>
+  <div class=\\"MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6\\">
+    <div class=\\"MuiPaper-root makeStyles-paper-5 MuiPaper-elevation1 MuiPaper-rounded\\">
+      <div class=\\"MuiGrid-root makeStyles-root-4 MuiGrid-container MuiGrid-spacing-xs-3\\">
+        <div class=\\"MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6\\">
+          <h4 class=\\"MuiTypography-root makeStyles-author-7 MuiTypography-h5\\">Fake Author</h4>
+          <div><span class=\\"MuiRating-root MuiRating-sizeSmall MuiRating-readOnly\\" role=\\"img\\" aria-label=\\"4.5 Stars\\"><span class=\\"MuiRating-decimal\\"><span style=\\"width: 0%; overflow: hidden; z-index: 1; position: absolute;\\"><span class=\\"MuiRating-icon MuiRating-iconFilled\\"><svg class=\\"MuiSvgIcon-root MuiSvgIcon-fontSizeInherit\\" focusable=\\"false\\" viewBox=\\"0 0 24 24\\" aria-hidden=\\"true\\"><path d=\\"M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z\\"></path></svg></span></span><span><span class=\\"MuiRating-icon MuiRating-iconFilled\\"><svg class=\\"MuiSvgIcon-root MuiSvgIcon-fontSizeInherit\\" focusable=\\"false\\" viewBox=\\"0 0 24 24\\" aria-hidden=\\"true\\"><path d=\\"M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z\\"></path></svg></span></span></span><span class=\\"MuiRating-decimal\\"><span style=\\"width: 0%; overflow: hidden; z-index: 1; position: absolute;\\"><span class=\\"MuiRating-icon MuiRating-iconFilled\\"><svg class=\\"MuiSvgIcon-root MuiSvgIcon-fontSizeInherit\\" focusable=\\"false\\" viewBox=\\"0 0 24 24\\" aria-hidden=\\"true\\"><path d=\\"M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z\\"></path></svg></span></span><span><span class=\\"MuiRating-icon MuiRating-iconFilled\\"><svg class=\\"MuiSvgIcon-root MuiSvgIcon-fontSizeInherit\\" focusable=\\"false\\" viewBox=\\"0 0 24 24\\" aria-hidden=\\"true\\"><path d=\\"M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z\\"></path></svg></span></span></span><span class=\\"MuiRating-decimal\\"><span style=\\"width: 0%; overflow: hidden; z-index: 1; position: absolute;\\"><span class=\\"MuiRating-icon MuiRating-iconFilled\\"><svg class=\\"MuiSvgIcon-root MuiSvgIcon-fontSizeInherit\\" focusable=\\"false\\" viewBox=\\"0 0 24 24\\" aria-hidden=\\"true\\"><path d=\\"M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z\\"></path></svg></span></span><span><span class=\\"MuiRating-icon MuiRating-iconFilled\\"><svg class=\\"MuiSvgIcon-root MuiSvgIcon-fontSizeInherit\\" focusable=\\"false\\" viewBox=\\"0 0 24 24\\" aria-hidden=\\"true\\"><path d=\\"M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z\\"></path></svg></span></span></span><span class=\\"MuiRating-decimal\\"><span style=\\"width: 0%; overflow: hidden; z-index: 1; position: absolute;\\"><span class=\\"MuiRating-icon MuiRating-iconFilled\\"><svg class=\\"MuiSvgIcon-root MuiSvgIcon-fontSizeInherit\\" focusable=\\"false\\" viewBox=\\"0 0 24 24\\" aria-hidden=\\"true\\"><path d=\\"M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z\\"></path></svg></span></span><span><span class=\\"MuiRating-icon MuiRating-iconFilled\\"><svg class=\\"MuiSvgIcon-root MuiSvgIcon-fontSizeInherit\\" focusable=\\"false\\" viewBox=\\"0 0 24 24\\" aria-hidden=\\"true\\"><path d=\\"M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z\\"></path></svg></span></span></span><span class=\\"MuiRating-decimal\\"><span style=\\"width: 50%; overflow: hidden; z-index: 1; position: absolute;\\"><span class=\\"MuiRating-icon MuiRating-iconFilled\\"><svg class=\\"MuiSvgIcon-root MuiSvgIcon-fontSizeInherit\\" focusable=\\"false\\" viewBox=\\"0 0 24 24\\" aria-hidden=\\"true\\"><path d=\\"M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z\\"></path></svg></span></span><span><span class=\\"MuiRating-icon MuiRating-iconEmpty\\"><svg class=\\"MuiSvgIcon-root MuiSvgIcon-fontSizeInherit\\" focusable=\\"false\\" viewBox=\\"0 0 24 24\\" aria-hidden=\\"true\\"><path d=\\"M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z\\"></path></svg></span></span></span></span></div>
+        </div>
+        <div class=\\"MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6\\">
+          <p class=\\"MuiTypography-root makeStyles-date-8 MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-alignRight\\">10.12.2020</p>
+        </div>
+        <div class=\\"MuiGrid-root makeStyles-divider-9 MuiGrid-item MuiGrid-grid-xs-12\\">
+          <hr class=\\"MuiDivider-root\\">
+        </div>
+        <div class=\\"MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12\\">
+          <p class=\\"MuiTypography-root MuiTypography-body1 MuiTypography-colorTextSecondary\\">Review text</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>"
+`;

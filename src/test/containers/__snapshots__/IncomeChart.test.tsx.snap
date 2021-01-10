@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`IncomeChartContainer render 1`] = `
+"<div class=\\"makeStyles-root-1\\">
+  <div class=\\"makeStyles-title-2\\">
+    <h2 class=\\"MuiTypography-root MuiTypography-h6 MuiTypography-colorPrimary\\">Доход</h2>
+    <p class=\\"MuiTypography-root makeStyles-titleDate-3 MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-alignRight\\"><span>10.12.2020 - 16.12.2020</span></p>
+  </div>
+  <div data-testid=\\"ResponsiveContainer\\"></div>
+</div>"
+`;

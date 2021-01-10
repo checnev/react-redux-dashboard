@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Content should render with sidebar 1`] = `
+"<div class=\\"MuiContainer-root MuiContainer-maxWidthLg\\">
+  <div class=\\"MuiGrid-root MuiGrid-container\\">
+    <div class=\\"MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-3\\">
+      <div>sidebar</div>
+    </div>
+    <div class=\\"MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-9\\">
+      <div>content</div>
+    </div>
+  </div>
+</div>"
+`;
+
+exports[`Content should render without sidebar 1`] = `
+"<div class=\\"MuiContainer-root MuiContainer-maxWidthLg\\">
+  <div class=\\"MuiGrid-root MuiGrid-container\\">
+    <div class=\\"MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12\\">
+      <div>content</div>
+    </div>
+  </div>
+</div>"
+`;

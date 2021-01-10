@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DateRangeContainer render 1`] = `
+"<div class=\\"makeStyles-root-1\\">
+  <div class=\\"MuiFormControl-root MuiTextField-root makeStyles-input-2\\"><label class=\\"MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled\\" data-shrink=\\"true\\">From</label>
+    <div class=\\"MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl\\"><input aria-invalid=\\"false\\" name=\\"from\\" type=\\"date\\" class=\\"MuiInputBase-input MuiInput-input\\" value=\\"2020-12-10\\"></div>
+  </div>
+  <div class=\\"MuiFormControl-root MuiTextField-root makeStyles-input-2\\"><label class=\\"MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled\\" data-shrink=\\"true\\">To</label>
+    <div class=\\"MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl\\"><input aria-invalid=\\"false\\" name=\\"to\\" type=\\"date\\" class=\\"MuiInputBase-input MuiInput-input\\" value=\\"2020-12-17\\"></div>
+  </div>
+</div>"
+`;

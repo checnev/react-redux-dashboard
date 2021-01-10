@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CarMaps render 1`] = `
+"<div data-testid=\\"YMaps\\">
+  <div data-testid=\\"Map\\" width=\\"100%\\" height=\\"250\\">
+    <div data-testid=\\"Placemark\\" geometry=\\"1,1\\" properties=\\"[object Object]\\" modules=\\"geoObject.addon.balloon\\" options=\\"[object Object]\\"></div>
+    <div data-testid=\\"Placemark\\" geometry=\\"1,1\\" properties=\\"[object Object]\\" modules=\\"geoObject.addon.balloon\\" options=\\"[object Object]\\"></div>
+  </div>
+</div>"
+`;
