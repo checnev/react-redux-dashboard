@@ -11,7 +11,7 @@ class CarsService {
       model: 'Hyndai Solaris (2014)',
       status: 0,
       color: '#d76830',
-      imageUrl: '/images/cars/hyundai-solaris-2014.jpg',
+      imageUrl: `${process.env.PUBLIC_URL}/images/cars/hyundai-solaris-2014.jpg`,
       coordinats: [56.835832, 60.615666],
     },
     {
@@ -20,7 +20,7 @@ class CarsService {
       model: 'Kia Rio (2014)',
       status: 1,
       color: '#808483',
-      imageUrl: '/images/cars/kia-rio-2014.jpg',
+      imageUrl: `${process.env.PUBLIC_URL}/images/cars/kia-rio-2014.jpg`,
       coordinats: [56.816553, 60.564730],
     },
     {
@@ -29,7 +29,7 @@ class CarsService {
       model: 'Ford Mondeo (2018)',
       status: 2,
       color: '#655c57',
-      imageUrl: '/images/cars/ford-mondeo-2018.jpg',
+      imageUrl: `${process.env.PUBLIC_URL}/images/cars/ford-mondeo-2018.jpg`,
       coordinats: [56.831751, 60.562233],
     },
   ];
