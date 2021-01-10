@@ -1,5 +1,5 @@
 # React Redux Dashboard
-[![Test Coverage](https://api.codeclimate.com/v1/badges/f73b14f95c10c4e43030/test_coverage)](https://codeclimate.com/github/checnev/react-redux-dashboard/test_coverage) [![Build Status](https://travis-ci.org/checnev/react-redux-dashboard.svg?branch=main)](https://travis-ci.org/checnev/react-redux-dashboard)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/57bedcb35b4594b1f3c8/test_coverage)](https://codeclimate.com/github/checnev/react-redux-dashboard/test_coverage) [![Build Status](https://travis-ci.org/checnev/react-redux-dashboard.svg?branch=main)](https://travis-ci.org/checnev/react-redux-dashboard)
 
 Dashboard for Car Sharing, pet project for practice.
 
